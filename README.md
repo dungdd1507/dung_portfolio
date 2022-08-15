@@ -1,3 +1,3 @@
-# Data Analyst Portfolio Project Repository
-This Repository will hold all of the code and queries from the Portfolio Projects
-I really do hope this is helpful! :D
+# Data Analyst's Project Portfolio Archive
+This repository will keep all codes and queries from Portfolio Projects
+It's also an archive of projects I've done on my Data career path
